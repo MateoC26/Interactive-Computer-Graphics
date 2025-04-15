@@ -1,0 +1,27 @@
+﻿  RollASphere.cpp
+E:\Mateo\NYU\2021 - 2022\Fall\CS4533\repos\Rolling A Sphere\RollASphere.cpp(36,50): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+E:\Mateo\NYU\2021 - 2022\Fall\CS4533\repos\Rolling A Sphere\RollASphere.cpp(120,36): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+E:\Mateo\NYU\2021 - 2022\Fall\CS4533\repos\Rolling A Sphere\RollASphere.cpp(269,41): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+E:\Mateo\NYU\2021 - 2022\Fall\CS4533\repos\Rolling A Sphere\RollASphere.cpp(268,47): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+E:\Mateo\NYU\2021 - 2022\Fall\CS4533\repos\Rolling A Sphere\RollASphere.cpp(267,41): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+E:\Mateo\NYU\2021 - 2022\Fall\CS4533\repos\Rolling A Sphere\RollASphere.cpp(273,49): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+E:\Mateo\NYU\2021 - 2022\Fall\CS4533\repos\Rolling A Sphere\RollASphere.cpp(272,49): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+E:\Mateo\NYU\2021 - 2022\Fall\CS4533\repos\Rolling A Sphere\RollASphere.cpp(271,51): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+E:\Mateo\NYU\2021 - 2022\Fall\CS4533\repos\Rolling A Sphere\RollASphere.cpp(438,41): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+E:\Mateo\NYU\2021 - 2022\Fall\CS4533\repos\Rolling A Sphere\RollASphere.cpp(483,22): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+E:\Mateo\NYU\2021 - 2022\Fall\CS4533\repos\Rolling A Sphere\RollASphere.cpp(667,15): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\Mateo\NYU\2021 - 2022\Fall\CS4533\repos\Rolling A Sphere\RollASphere.cpp(797,55): warning C4305: 'argument': truncation from 'double' to 'const GLfloat'
+E:\Mateo\NYU\2021 - 2022\Fall\CS4533\repos\Rolling A Sphere\RollASphere.cpp(805,5): error C2065: 'c': undeclared identifier
+E:\Mateo\NYU\2021 - 2022\Fall\CS4533\repos\Rolling A Sphere\RollASphere.cpp(806,13): error C2146: syntax error: missing ';' before identifier 't'
+E:\Mateo\NYU\2021 - 2022\Fall\CS4533\repos\Rolling A Sphere\RollASphere.cpp(806,14): error C2059: syntax error: ')'
+E:\Mateo\NYU\2021 - 2022\Fall\CS4533\repos\Rolling A Sphere\RollASphere.cpp(815,22): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+E:\Mateo\NYU\2021 - 2022\Fall\CS4533\repos\Rolling A Sphere\RollASphere.cpp(815,22): error C2556: 'int glutSwapBuffers(void)': overloaded function differs only by return type from 'void glutSwapBuffers(void)'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Auxiliary\VS\include\GL\freeglut_std.h(434): message : see declaration of 'glutSwapBuffers'
+E:\Mateo\NYU\2021 - 2022\Fall\CS4533\repos\Rolling A Sphere\RollASphere.cpp(815,5): error C2371: 'glutSwapBuffers': redefinition; different basic types
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Auxiliary\VS\include\GL\freeglut_std.h(434): message : see declaration of 'glutSwapBuffers'
+E:\Mateo\NYU\2021 - 2022\Fall\CS4533\repos\Rolling A Sphere\RollASphere.cpp(816,1): error C2059: syntax error: '}'
+E:\Mateo\NYU\2021 - 2022\Fall\CS4533\repos\Rolling A Sphere\RollASphere.cpp(816,1): error C2143: syntax error: missing ';' before '}'
+E:\Mateo\NYU\2021 - 2022\Fall\CS4533\repos\Rolling A Sphere\RollASphere.cpp(819,1): error C2143: syntax error: missing ';' before '{'
+E:\Mateo\NYU\2021 - 2022\Fall\CS4533\repos\Rolling A Sphere\RollASphere.cpp(819,1): error C2447: '{': missing function header (old-style formal list?)
+E:\Mateo\NYU\2021 - 2022\Fall\CS4533\repos\Rolling A Sphere\RollASphere.cpp(833,26): error C2065: 'idle': undeclared identifier
+E:\Mateo\NYU\2021 - 2022\Fall\CS4533\repos\Rolling A Sphere\RollASphere.cpp(849,26): error C2065: 'idle': undeclared identifier

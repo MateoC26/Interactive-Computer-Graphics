@@ -1,0 +1,12 @@
+﻿  Sample.cpp
+C:\Users\Mateo\Desktop\Mateo\NYU\2021 - 2022\Fall\CS4533\repos\Drawing A Circle - HW 1\Sample.cpp(44,5): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Mateo\Desktop\Mateo\NYU\2021 - 2022\Fall\CS4533\repos\Drawing A Circle - HW 1\Sample.cpp(45,5): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Mateo\Desktop\Mateo\NYU\2021 - 2022\Fall\CS4533\repos\Drawing A Circle - HW 1\Sample.cpp(46,5): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Mateo\Desktop\Mateo\NYU\2021 - 2022\Fall\CS4533\repos\Drawing A Circle - HW 1\Sample.cpp(109,35): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\Mateo\Desktop\Mateo\NYU\2021 - 2022\Fall\CS4533\repos\Drawing A Circle - HW 1\Sample.cpp(109,18): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\Mateo\Desktop\Mateo\NYU\2021 - 2022\Fall\CS4533\repos\Drawing A Circle - HW 1\Sample.cpp(113,35): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\Mateo\Desktop\Mateo\NYU\2021 - 2022\Fall\CS4533\repos\Drawing A Circle - HW 1\Sample.cpp(113,18): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\Mateo\Desktop\Mateo\NYU\2021 - 2022\Fall\CS4533\repos\Drawing A Circle - HW 1\Sample.cpp(117,35): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\Mateo\Desktop\Mateo\NYU\2021 - 2022\Fall\CS4533\repos\Drawing A Circle - HW 1\Sample.cpp(117,18): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\Mateo\Desktop\Mateo\NYU\2021 - 2022\Fall\CS4533\repos\Drawing A Circle - HW 1\Sample.cpp(121,35): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\Mateo\Desktop\Mateo\NYU\2021 - 2022\Fall\CS4533\repos\Drawing A Circle - HW 1\Sample.cpp(121,18): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
