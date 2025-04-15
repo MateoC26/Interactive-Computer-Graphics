@@ -1,0 +1,4 @@
+﻿  InitShader.cpp
+C:\Users\Mateo\Desktop\Mateo\NYU\2021 - 2022\Fall\CS4533\repos\Rotate A Cube Shading\InitShader.cpp(12,16): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  rotate-cube-shading.cpp
+  Generating Code...
