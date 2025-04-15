@@ -1,5 +1,6 @@
 # Interactive-Computer-Graphics
 Projects for the Interactive Computer Graphics course at NYU.
+Check out the demos in the Interactive Computer Graphics Demos folder.
 
 Setup is needed to run the projects locally. See https://cse.engineering.nyu.edu/cs653/ for instructions and required libraries.
 
